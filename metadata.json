@@ -1,0 +1,6 @@
+{
+  "name": "Robotics Next",
+  "description": "An exquisite, multi-module premium platform for Robotics Next, showing humanoid robotics, AI-driven solutions, and live real-time telemetry counters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
